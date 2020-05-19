@@ -2,3 +2,4 @@
 *.m linguist-language=MATLAB
 *.c linguist-language=MATLAB
 *.h linguist-language=MATLAB
+*.java linguist-language=MATLAB
